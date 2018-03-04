@@ -20,6 +20,8 @@ public class ProyectoDAM {
         System.out.println("Versión 1.0\n");
         System.out.println("Nueva salida en pantalla\n");
         System.out.println("Versión 2.0\n");
-    }
+        System.out.println("Otra más...\n");
+        System.out.println("Versión 3.0\n");
+   }
     
 }
