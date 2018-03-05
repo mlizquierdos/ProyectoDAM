@@ -24,6 +24,7 @@ public class ProyectoDAM {
         System.out.println("Versión 3.0\n");
         System.out.println("Todo OK. Proyecto recuperado con CLONE\n");
         System.out.println("Todo OK. Proyecto recuperado con Eclipse -> Importar\n");
+        System.out.println("Editado por Rodrigo");
    }
     
 }
